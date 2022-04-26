@@ -26,8 +26,6 @@ Users should be able to:
 
 ### Screenshots of results
 
-Desktop(1440px):
-
 ![Pig Game][image-1]
 
 ### Links
@@ -66,7 +64,7 @@ Thank you!
 [10]:	#continued-development
 [11]:	#author
 [12]:	https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-grid-and-vanilla-js-B173HLQr5
-[13]:	
+[13]:	https://pig-game-js-eugene.netlify.app/
 [14]:	https://github.com/Evgeni-Georgiev/JavaScript-Games
 [15]:	https://www.linkedin.com/in/evgeni-georgiev-755921166/
 [16]:	https://www.frontendmentor.io/profile/Evertrix
