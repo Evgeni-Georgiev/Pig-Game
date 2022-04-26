@@ -11,8 +11,6 @@ This game is based on HTML, CSS and Vanilla JavaScript
 - [My process][6]
   - [Tech Stack][7]
   - [Built with][8]
-  - [What I learned][9]
-  - [Continued development][10]
 - [Author][11]
 
 ## Overview
